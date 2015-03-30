@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: dream | caimaoy's blog]]></title>
-  <link href="http://caimaoy.github.com/blog/categories/dream/atom.xml" rel="self"/>
-  <link href="http://caimaoy.github.com/"/>
+  <link href="http://caimaoy.github.com/octopress/blog/categories/dream/atom.xml" rel="self"/>
+  <link href="http://caimaoy.github.com/octopress/"/>
   <updated>2013-01-04T11:39:31+08:00</updated>
-  <id>http://caimaoy.github.com/</id>
+  <id>http://caimaoy.github.com/octopress/</id>
   <author>
     <name><![CDATA[caimaoy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[简短の梦 二则]]></title>
-    <link href="http://caimaoy.github.com/blog/2013/01/04/20130104/"/>
+    <link href="http://caimaoy.github.com/octopress/blog/2013/01/04/20130104/"/>
     <updated>2013-01-04T11:17:00+08:00</updated>
-    <id>http://caimaoy.github.com/blog/2013/01/04/20130104</id>
+    <id>http://caimaoy.github.com/octopress/blog/2013/01/04/20130104</id>
     <content type="html"><![CDATA[<h2>①</h2>
 
 <h3><strong>内容</strong></h3>
@@ -74,9 +74,9 @@
   
   <entry>
     <title type="html"><![CDATA[纠结の梦]]></title>
-    <link href="http://caimaoy.github.com/blog/2011/04/10/20110410/"/>
+    <link href="http://caimaoy.github.com/octopress/blog/2011/04/10/20110410/"/>
     <updated>2011-04-10T21:27:00+08:00</updated>
-    <id>http://caimaoy.github.com/blog/2011/04/10/20110410</id>
+    <id>http://caimaoy.github.com/octopress/blog/2011/04/10/20110410</id>
     <content type="html"><![CDATA[<pre>
 让我尽我所能描述一下昨天那个纠结的梦吧：
 故事可能发生在HK？也有可能是在不知道。
@@ -117,9 +117,9 @@
   
   <entry>
     <title type="html"><![CDATA[不靠谱的梦们]]></title>
-    <link href="http://caimaoy.github.com/blog/2011/03/23/20110323/"/>
+    <link href="http://caimaoy.github.com/octopress/blog/2011/03/23/20110323/"/>
     <updated>2011-03-23T21:20:00+08:00</updated>
-    <id>http://caimaoy.github.com/blog/2011/03/23/20110323</id>
+    <id>http://caimaoy.github.com/octopress/blog/2011/03/23/20110323</id>
     <content type="html"><![CDATA[<pre>
 继续来说这些不靠谱的梦们：
 先是小强和神仙在香港，我和神仙过关还是进公园来的，
@@ -160,9 +160,9 @@
   
   <entry>
     <title type="html"><![CDATA[撼地神牛]]></title>
-    <link href="http://caimaoy.github.com/blog/2011/03/22/es/"/>
+    <link href="http://caimaoy.github.com/octopress/blog/2011/03/22/es/"/>
     <updated>2011-03-22T14:31:00+08:00</updated>
-    <id>http://caimaoy.github.com/blog/2011/03/22/es</id>
+    <id>http://caimaoy.github.com/octopress/blog/2011/03/22/es</id>
     <content type="html"><![CDATA[<p>这又是一个可怕又无逻辑的梦：我梦见我在給丁好雨（小学同学的弟弟）指导功课，
 然后郑富伟（大学同学）大了个喷嚏，然后有余震的效果
 （每当<img src="/images/hdsn.jpg">撼地神牛施放技能时，都会使周围300范围内的地面震动，造成额外的伤害并晕眩）,
