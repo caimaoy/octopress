@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://caimaoy.github.com/sitemap.xml 
+Sitemap: http://caimaoy.github.com/octopress/sitemap.xml 
